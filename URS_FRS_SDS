@@ -1,0 +1,27 @@
+Los requerimientos pueden ser de cualquiera de los tres tipos de datos mostrados a continuación:
+  AU: Valor que se carga Automaticamente
+  DL: Drop List o lista desplegable que muestra las opciones posibles
+  Input: Valor que debe introducir el usuario desde el teclado
+
+A continuación  se describen los requerimientos a cumplir:
+URS
+  - Fecha de creación (AU)
+  - Nombre de Solicitante (AU)
+  - Fecha de Requerimiento (DL)
+  - Título de Requerimiento (Input)
+  - Nombre del Proveedor "Razón Social" (Input/DL)
+  - RFC (Input)
+  - Dirección (Input)
+  - e-mail (Input)
+  - Página Web (Input)
+  - Teléfono (Input)
+  - Cotización de Referencia (Input)
+  - Fecha de Cotización (Input)
+  - Nombre del Contacto (Input)
+  - Cargo / Área de Contacto (Input)
+  - Número de Proyecto (Input)
+
+FRS
+
+
+SDS
