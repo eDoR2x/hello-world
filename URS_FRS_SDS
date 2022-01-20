@@ -22,6 +22,13 @@ URS
   - Número de Proyecto (Input)
 
 FRS
-
+  - Debe enviar correo con la información al hacer clic
+  - Debe incluir paso para verificación de información
+  - Contar con botón para consulta
+  - Opción para generar una nueva solicitud con el mismo proveedor
+  - Incluir función para anexos en pdf y doc
 
 SDS
+  - Mostrar alarma de datos requeridos incompletos
+  - Incluir Saludo de reconocimiento de usuario
+  - Incluir Menú desplegable de navegación rápida
